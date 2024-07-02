@@ -9,4 +9,4 @@ o Get the focused element type on the running behind application.
 # References
 # https://learn.microsoft.com/en-us/windows/win32/winmsg/about-hooks#wh_mouse_ll
 # https://learn.microsoft.com/en-us/windows/win32/api/psapi/nf-psapi-getmodulefilenameexa
-# WindowFromPoint function (winuser.h) - Win32 apps | Microsoft Learn
+# https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-windowfrompoin
